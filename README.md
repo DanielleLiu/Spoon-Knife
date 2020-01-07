@@ -14,3 +14,4 @@ changing the branch
 Author info should be added here
 
 - Using multiple commits
+- Show commit message history 
