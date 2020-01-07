@@ -11,3 +11,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 Test creating and changing the fork. 
 Making more edits for the branch 
 changing the branch
+Author info should be added here
