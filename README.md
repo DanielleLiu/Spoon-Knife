@@ -15,3 +15,5 @@ Author info should be added here
 
 - Using multiple commits
 - Show commit message history 
+
+Commit to a forked repo
